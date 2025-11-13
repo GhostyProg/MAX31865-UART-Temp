@@ -1,0 +1,13 @@
+../Core/Src/UART.c:21:6:InitStartByteUART	1
+../Core/Src/UART.c:28:6:TransmitError	1
+../Core/Src/UART.c:36:10:CalcCRC	4
+../Core/Src/UART.c:51:6:CheckStartBytes	3
+../Core/Src/UART.c:67:9:CheckPayloadlen	4
+../Core/Src/UART.c:78:18:SendData	4
+../Core/Src/UART.c:112:18:ReceiveData	4
+../Core/Src/UART.c:138:6:HAL_UART_TxCpltCallback	1
+../Core/Src/UART.c:144:6:HAL_UART_RxCpltCallback	1
+../Core/Src/UART.c:150:6:HAL_UART_ErrorCallback	2
+../Core/Src/UART.c:159:18:WaitSync	5
+../Core/Src/UART.c:177:25:WaitCommandState	4
+../Core/Src/UART.c:191:18:ProcessState	5

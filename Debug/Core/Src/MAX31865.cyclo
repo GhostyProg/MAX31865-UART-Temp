@@ -1,0 +1,12 @@
+../Core/Src/MAX31865.c:22:17:Max31865_readRegister	2
+../Core/Src/MAX31865.c:34:13:Max31865_writeRegister	1
+../Core/Src/MAX31865.c:43:9:Max31865_readFault	1
+../Core/Src/MAX31865.c:47:6:Max31865_clearFault	1
+../Core/Src/MAX31865.c:55:6:Max31865_enableBias	2
+../Core/Src/MAX31865.c:61:6:Max31865_autoConvert	2
+../Core/Src/MAX31865.c:67:6:Max31865_setWires	2
+../Core/Src/MAX31865.c:74:6:Max31865_singleShot	1
+../Core/Src/MAX31865.c:80:10:Max31865_readRTD	1
+../Core/Src/MAX31865.c:94:6:Max31865_Init	3
+../Core/Src/MAX31865.c:111:6:Max31865_ReadTempC	2
+../Core/Src/MAX31865.c:134:7:Max31865_Filter	3
